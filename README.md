@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 
 🔬 My work focuses on Tropical Hydroclimatology, and I have a fascination for Convectively Coupled Equatorial Waves 🌊⚡.
 
+📫 How to reach me: ajaramillo@atmosfera.unam.mx
+
 Feel free to explore my repositories and join me on this scientific journey! 🚀✨
