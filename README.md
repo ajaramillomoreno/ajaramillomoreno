@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-I'm Alejandro Jaramillo-Moreno 🌎☁️
-
 🧑‍🔬 Researcher at the Institute of Atmospheric Sciences and Climate Change, National Autonomous University of Mexico (UNAM).
 
 🌆 Based in Mexico City, but originally from the beautiful land of Colombia 🇨🇴.
