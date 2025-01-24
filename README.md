@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi there! 👋
+
+I'm Alejandro Jaramillo-Moreno 🌎☁️
+
+🧑‍🔬 Researcher at the Institute of Atmospheric Sciences and Climate Change, National Autonomous University of Mexico (UNAM).
+
+🌆 Based in Mexico City, but originally from the beautiful land of Colombia 🇨🇴.
+
+🔬 My work focuses on Tropical Hydroclimatology, and I have a fascination for Convectively Coupled Equatorial Waves 🌊⚡.
+
+Feel free to explore my repositories and join me on this scientific journey! 🚀✨
