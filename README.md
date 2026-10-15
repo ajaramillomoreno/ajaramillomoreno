@@ -2,7 +2,7 @@
 
 **Atmospheric Scientist | Tropical Climate Dynamics | Hydroclimatology**  
 Research Scientist  
-**Departamento de Ciencias Atmosféricas**  
+**Departamento de Cambio Climático**  
 **Instituto de Ciencias de la Atmósfera y Cambio Climático (ICAyCC)**  
 **Universidad Nacional Autónoma de México (UNAM)** · Mexico City, Mexico
 
