@@ -5,7 +5,6 @@ Research Scientist · Institute of Atmospheric Sciences and Climate Change (ICAy
 Mexico City, Mexico
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--4175--7726-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-4175-7726)
-[![Institution](https://img.shields.io/badge/UNAM-Atmospheric_Sciences-184A78?style=flat-square)](https://www.atmosfera.unam.mx/ciencias-atmosfericas/hidroclimatologia-tropical/alejandro-jaramillo-moreno/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:ajaramillo@atmosfera.unam.mx)
 
 ---
