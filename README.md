@@ -30,6 +30,24 @@ I develop reproducible workflows for geophysical data analysis, atmospheric diag
 
 **Tools:** `Python` · `Jupyter` · `NumPy` · `pandas` · `xarray` · `Matplotlib` · `Cartopy` · `NetCDF` · `Git`
 
+## Featured repositories
+
+### [PyWKSpectra](https://github.com/ajaramillomoreno/PyWKSpectra)
+
+**Wheeler–Kiladis Space–Time Spectral Analysis in Python**
+
+A Python package for wavenumber–frequency spectral analysis of tropical atmospheric variability, particularly convectively coupled equatorial waves.
+
+The updated package offers simplified installation through `pip`, an improved interface, and a reproducible example to facilitate its use in atmospheric research and teaching.
+
+### [wk_spectra](https://github.com/ajaramillomoreno/wk_spectra)
+
+**Original implementation — Legacy repository**
+
+The original implementation of Wheeler–Kiladis spectral analysis in Python. This repository is retained for historical reference and has been superseded by [PyWKSpectra](https://github.com/ajaramillomoreno/PyWKSpectra).
+
+**For new applications, please use PyWKSpectra.**
+
 ## Collaboration
 
 I welcome collaborations in tropical atmospheric dynamics, hydroclimatology, climate predictability, and reproducible geoscience research. Please feel free to reach out by [email](mailto:ajaramillo@atmosfera.unam.mx).
