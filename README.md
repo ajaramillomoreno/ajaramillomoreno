@@ -6,7 +6,7 @@ Research Scientist
 **Instituto de Ciencias de la Atmósfera y Cambio Climático (ICAyCC)**  
 **Universidad Nacional Autónoma de México (UNAM)** · Mexico City, Mexico
 
-[Email](mailto:ajaramillo@atmosfera.unam.mx) · [ORCID / Publications](https://orcid.org/0000-0002-4175-7726)
+[Personal Website](https://ajaramillomoreno.github.io/) · [Email](mailto:ajaramillo@atmosfera.unam.mx) · [ORCID / Publications](https://orcid.org/0000-0002-4175-7726)
 
 ---
 
@@ -30,7 +30,7 @@ I develop reproducible workflows for geophysical data analysis, atmospheric diag
 
 **Tools:** `Python` · `Jupyter` · `NumPy` · `pandas` · `xarray` · `Matplotlib` · `Cartopy` · `NetCDF` · `Git`
 
-## Featured repositories
+## Research projects and open science
 
 ### [PyWKSpectra](https://github.com/ajaramillomoreno/PyWKSpectra)
 
@@ -39,6 +39,22 @@ I develop reproducible workflows for geophysical data analysis, atmospheric diag
 A Python package for wavenumber–frequency spectral analysis of tropical atmospheric variability, particularly convectively coupled equatorial waves.
 
 The updated package offers simplified installation through `pip`, an improved interface, and a reproducible example to facilitate its use in atmospheric research and teaching.
+
+### [LightningRiskMX](https://github.com/ajaramillomoreno/LightningRiskMX)
+
+**Lightning Risk in Mexico — Geospatial Data and Interactive Maps**
+
+An open-access collection of scientific maps and geospatial datasets accompanying the peer-reviewed study *Mapping Lightning Risk in Mexico: Integrating Natural Hazard and Social Vulnerability* (Jaramillo and Dominguez, 2024).
+
+The repository provides downloadable geospatial representations of lightning-related fatality incidents and municipal risk classifications across Mexico, integrating physical lightning hazard and social vulnerability.
+
+The original study documented 2,573 lightning-related deaths during 1998–2021 and found that **82.1% of fatality incidents occurred in municipalities classified as high or very high risk**.
+
+The project makes these published results more accessible through GeoJSON datasets, scientific maps, and an interactive atlas for exploring their geographical distribution.
+
+**Resources:** [Interactive Atlas](https://ajaramillomoreno.github.io/LightningRiskMX/atlas/) · [Geospatial Dataset (Zenodo)](https://doi.org/10.5281/zenodo.23525980) · [Published Article](https://doi.org/10.1175/WCAS-D-23-0151.1)
+
+**Related publication:** Jaramillo, A., and C. Dominguez (2024). *Mapping Lightning Risk in Mexico: Integrating Natural Hazard and Social Vulnerability*. Weather, Climate, and Society, 16(3), 563–574. https://doi.org/10.1175/WCAS-D-23-0151.1
 
 ### [wk_spectra](https://github.com/ajaramillomoreno/wk_spectra)
 
@@ -50,4 +66,6 @@ The original implementation of Wheeler–Kiladis spectral analysis in Python. Th
 
 ## Collaboration
 
-I welcome collaborations in tropical atmospheric dynamics, hydroclimatology, climate predictability, and reproducible geoscience research. Please feel free to reach out by [email](mailto:ajaramillo@atmosfera.unam.mx).
+I welcome collaborations in tropical atmospheric dynamics, hydroclimatology, climate predictability, atmospheric hazards, and reproducible geoscience research.
+
+Please feel free to reach out by [email](mailto:ajaramillo@atmosfera.unam.mx).
